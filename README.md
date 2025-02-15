@@ -5,6 +5,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Latihan Praktik
 
 ## Dokumentasi
 ### Dokumentasi C++
+Hasil Dokumentasi Latihan Praktikum - 1
 ![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/C%2B%2B/Dokumentasi%20Hasil/1.jpg)
 
 ![SS-2](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/C%2B%2B/Dokumentasi%20Hasil/2.jpg)
