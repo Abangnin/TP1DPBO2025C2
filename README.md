@@ -1,4 +1,4 @@
-# BISMILLAH
+# بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
 
 ## Janji
 Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Latihan Praktikum 1 & Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
@@ -24,7 +24,10 @@ Hasil Dokumentasi Latihan Praktikum - 1
 ![SS-8](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/C%2B%2B/Dokumentasi%20Hasil/8.jpg)
 
 ### Dokumentasi Java
+Hasil Dokumentasi Tugas Praktikum - 1
 
 ### Dokumentasi Pyhton
+Hasil Dokumentasi Tugas Praktikum - 1
 
 ### Dokumentasi PHP
+Hasil Dokumentasi Tugas Praktikum - 1
