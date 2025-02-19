@@ -26,6 +26,23 @@ Hasil Dokumentasi Latihan Praktikum - 1
 ### Dokumentasi Java
 Hasil Dokumentasi Tugas Praktikum - 1
 
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-1.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-2.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-3.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-4.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-5.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-6.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-7.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-8.jpg)
+
+
 ### Dokumentasi Pyhton
 Hasil Dokumentasi Tugas Praktikum - 1
 
