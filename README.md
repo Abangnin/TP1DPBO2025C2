@@ -22,3 +22,9 @@ Hasil Dokumentasi Latihan Praktikum - 1
 ![SS-7](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/C%2B%2B/Dokumentasi%20Hasil/7.jpg)
 
 ![SS-8](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/C%2B%2B/Dokumentasi%20Hasil/8.jpg)
+
+### Dokumentasi Java
+
+### Dokumentasi Pyhton
+
+### Dokumentasi PHP
