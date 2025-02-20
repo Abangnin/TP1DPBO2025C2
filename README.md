@@ -43,7 +43,7 @@ Hasil Dokumentasi Tugas Praktikum - 1
 ![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Java/Dokumentasi%20Hasil/java-8.jpg)
 
 
-### Dokumentasi Pyhton
+### Dokumentasi Python
 Hasil Dokumentasi Tugas Praktikum - 1
 
 ![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-1.jpg)
