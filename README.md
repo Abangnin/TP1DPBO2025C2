@@ -46,5 +46,21 @@ Hasil Dokumentasi Tugas Praktikum - 1
 ### Dokumentasi Pyhton
 Hasil Dokumentasi Tugas Praktikum - 1
 
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-1.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-2.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-3.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-4.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-5.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-6.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-7.jpg)
+
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/Python/Dokumentasi%20Hasil/py-8.jpg)
+
 ### Dokumentasi PHP
 Hasil Dokumentasi Tugas Praktikum - 1
