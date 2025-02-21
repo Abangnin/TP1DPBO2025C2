@@ -5,14 +5,19 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Latihan Praktik
 
 ## Alur Program
 - Add/Tambah
+  
     Bagian fungsi arau program untuk menambahkan suatu produk ke dalam sebuah data
 - Show/Tampilan
+  
     Bagian fungsi arau program untuk menampilkan suatu produk di dalam sebuah data
 - Change/Ubah
+
     Bagian fungsi arau program untuk mengubah suatu produk di dalam sebuah data
 - Delete/Hapus
+  
     Bagian fungsi arau program untuk menghapus suatu produk di dalam sebuah data
 - Search/Cari
+  
     Bagian fungsi arau program untuk mencaru suatu produk di dalam sebuah data
 
 ## Dokumentasi
