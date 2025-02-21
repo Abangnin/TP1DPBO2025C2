@@ -5,6 +5,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Latihan Praktik
 
 ## Alur Program
 +------------------------------------------------------------------------------------+
+
 - Add/Tambah
   
     (Bagian fungsi arau program untuk menambahkan suatu produk ke dalam sebuah data)
@@ -20,6 +21,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Latihan Praktik
 - Search/Cari
   
     (Bagian fungsi arau program untuk mencaru suatu produk di dalam sebuah data)
+  
   +------------------------------------------------------------------------------------+
 
 ## Dokumentasi
