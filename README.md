@@ -64,3 +64,24 @@ Hasil Dokumentasi Tugas Praktikum - 1
 
 ### Dokumentasi PHP
 Hasil Dokumentasi Tugas Praktikum - 1
+
+- Add produk
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/PHP/Dokumentasi%20Hasil/php-1.jpg)
+
+- Tampilan sesudah di add
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/PHP/Dokumentasi%20Hasil/php-2.jpg)
+
+- Tampilan sesudah di add juga yang banyak
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/PHP/Dokumentasi%20Hasil/php-3.jpg)
+
+- Search produk dengan ID = 1
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/PHP/Dokumentasi%20Hasil/php-4.jpg)
+
+- Di bagian Aksi ingin mengubah data produk
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/PHP/Dokumentasi%20Hasil/php-5.jpg)
+
+- Sesudah diubah
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/PHP/Dokumentasi%20Hasil/php-6.jpg)
+
+- Menghapus data yang sudah diubah tadi
+![SS-1](https://github.com/Abangnin/TP1DPBO2025C2/blob/main/PHP/Dokumentasi%20Hasil/php-7.jpg)
