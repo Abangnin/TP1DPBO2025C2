@@ -3,6 +3,18 @@
 ## Janji
 Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Latihan Praktikum 1 & Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+## Alur Program
+- Add/Tambah
+    Bagian fungsi arau program untuk menambahkan suatu produk ke dalam sebuah data
+- Show/Tampilan
+    Bagian fungsi arau program untuk menampilkan suatu produk di dalam sebuah data
+- Change/Ubah
+    Bagian fungsi arau program untuk mengubah suatu produk di dalam sebuah data
+- Delete/Hapus
+    Bagian fungsi arau program untuk menghapus suatu produk di dalam sebuah data
+- Search/Cari
+    Bagian fungsi arau program untuk mencaru suatu produk di dalam sebuah data
+
 ## Dokumentasi
 ### Dokumentasi C++
 Hasil Dokumentasi Latihan Praktikum - 1
